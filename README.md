@@ -4,4 +4,4 @@ This is a Html/CSS project where I designed the replica of Google Search homepag
 
 The tools used in this project are HTML5, CSS and git for organised work flow and it has been a fun and engaging ride creating this project. 
 
-The project can be viewed using this link: 
+The project can be viewed using this link: https://xquireworld.github.io/google-homepage/ 
