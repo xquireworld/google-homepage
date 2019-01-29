@@ -2,7 +2,7 @@
 position: relative;
 text-align: right;
 font-family: 'Times New Roman', Times, serif;
-font-weight:normal;
+font-weight:lighter;
 word-spacing: 10px;
 }
 
@@ -70,4 +70,27 @@ text-align: center;
 
 #center button:focus {
     outline:0;
+}
+
+#footer1 {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #f2f2f2;
+    color: #222;
+}
+#footer1 .left{
+    font-weight: lighter;
+    text-align: left;
+    margin-left: 30px;
+    word-spacing: 10px;
+    font-size: small;
+    font-family: arial,sans-serif;
+}
+
+ .left span{
+    margin-left: 950px;
+    margin-right: 20px;
 }
