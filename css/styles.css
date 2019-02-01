@@ -68,10 +68,6 @@ text-align: center;
     border: solid 1px #ddd;
 }
 
-#center button:focus {
-    outline:0;
-}
-
 footer {
   height: 50px;
   display: flex;
